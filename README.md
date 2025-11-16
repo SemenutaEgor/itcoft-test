@@ -1,4 +1,4 @@
-Сборка:
+Сборка из корневого каталога Task1 (Task2 или Task3):
 
 mkdir build\
 cd build\
